@@ -22,3 +22,11 @@ The color scheme was chosen to maintain a clean yet impactful look. I used a mix
 This project helped me strengthen my foundational web development skills and apply theoretical knowledge in a practical and professional context. It also prepared me to work on more advanced features and real-world applications. Moving forward, I plan to enhance this portfolio by adding a project showcase section, integrating backend functionalities, and implementing dark/light mode toggles.
 In conclusion, this personal portfolio website not only serves as a digital resume but also as a live demonstration of my web development capabilities. It is a reflection of my creativity, attention to detail, and passion for building user-centric web experiences.
 
+##OUTPUT
+<img width="1895" height="985" alt="Image" src="https://github.com/user-attachments/assets/9630d823-232a-4f73-ad85-ba56c0cdb555" />
+<img width="1891" height="988" alt="Image" src="https://github.com/user-attachments/assets/b83518e6-96dc-4bcc-a412-6b6092b2bd26" />
+
+<img width="1887" height="991" alt="Image" src="https://github.com/user-attachments/assets/65173744-1149-4b5e-b897-baf2e0f2d83a" />
+<img width="1883" height="742" alt="Image" src="https://github.com/user-attachments/assets/38ebd565-6973-4699-916d-7ad77166fd2f" />
+<img width="1882" height="959" alt="Image" src="https://github.com/user-attachments/assets/2b69b9ab-ee13-4fe2-932b-128226561f36" />
+<img width="1881" height="435" alt="Image" src="https://github.com/user-attachments/assets/57e70704-bca1-424b-bb59-dff582c3836e" />
